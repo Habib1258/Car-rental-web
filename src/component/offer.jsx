@@ -7,7 +7,7 @@ const Offer = () => {
   return (
     <>
         <section className="bg-gray-200 text-red-600 h-screen">
-            <h1 className="text-5xl underline underline-offset-4 text-center pt-10 font-cambria">Offer</h1>
+            <h1 className="text-5xl underline underline-offset-4 ml-64 pt-10 font-cambria">Offer</h1>
             <div className="grid gap-y-6 justify-center mt-12 ">
                 <div className="flex gap-x-7 gap-y-5 w-full">
                     <div className='relative h-64  gap-x-5'>
